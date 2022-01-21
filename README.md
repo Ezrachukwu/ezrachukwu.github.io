@@ -49,10 +49,13 @@ I am ready to fully learn programming from the start with full dedication
 </p>
 
 <a href="https://user-images.githubusercontent.com/98084380/150469358-4742b0c6-6c21-45f1-8bd4-6e09a4e6779b.jpg" target="_blank">PhD Student</a>
-<br>
-
-<a href="NvidagrantCV.pdf" target="_blank" rel="noopener noreferrer">PhD Student PDF New Tap</a><br>
-
+ <br>
+ <br>
+ <br>
+<a href="NvidagrantCV.pdf" target="_blank" rel="noopener noreferrer">PhD Student PDF New Tap</a>
+ <br>
+ <br>
+ <br>
 <a href="https://github.com/Ajayi-Ebe/cv/raw/main/NvidagrantCV.pdf" target="_blank">PhD Student PDF Close window</a>
 
 </body>
