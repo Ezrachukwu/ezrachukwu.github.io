@@ -52,7 +52,7 @@ I am ready to fully learn programming from the start with full dedication
  <br>
  <br>
  <br>
-<a href="NvidagrantCV.pdf" target="_blank" rel="noopener noreferrer">PhD Student PDF New Tap</a>
+<a href="pdf.html" target="_blank" rel="noopener noreferrer">PhD Student PDF New Tap</a>
  <br>
  <br>
  <br>
